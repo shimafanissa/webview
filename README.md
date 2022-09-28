@@ -1,10 +1,10 @@
-# webview
+# Template Aplikasi Webview
 
-A new Flutter project.
+Repository ini adalah template yang digunakan untuk membuat aplikasi android dari website menggunakan flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone aplikasi ini
 
 A few resources to get you started if this is your first Flutter project:
 
